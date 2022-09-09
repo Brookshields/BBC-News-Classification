@@ -1,1 +1,1 @@
-# BBC-News-Classification NLP
+# BBC News Classification NLP
